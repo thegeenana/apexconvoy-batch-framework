@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>AccountNameNormalisationBatch</members>
+        <members>AccountNameNormalisationBatchTest</members>
+        <members>ApexConvoyBatch</members>
+        <members>ApexConvoyContext</members>
+        <members>ApexConvoyException</members>
+        <members>ApexConvoyPhase</members>
+        <members>ApexConvoyScopeResult</members>
+        <members>ApexConvoyScopeResultTest</members>
+        <members>ApexConvoySummary</members>
+        <name>ApexClass</name>
+    </types>
+    <version>65.0</version>
+</Package>
